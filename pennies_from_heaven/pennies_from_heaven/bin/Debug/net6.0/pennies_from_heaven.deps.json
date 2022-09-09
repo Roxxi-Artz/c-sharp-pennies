@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pennies_from_heaven/1.0.0": {
+        "runtime": {
+          "pennies_from_heaven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pennies_from_heaven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

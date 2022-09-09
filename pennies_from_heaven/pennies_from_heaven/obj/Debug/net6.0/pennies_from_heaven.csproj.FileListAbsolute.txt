@@ -1,0 +1,15 @@
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.csproj.AssemblyReference.cache
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.AssemblyInfoInputs.cache
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.AssemblyInfo.cs
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.csproj.CoreCompileInputs.cache
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\bin\Debug\net6.0\pennies_from_heaven.exe
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\bin\Debug\net6.0\pennies_from_heaven.deps.json
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\bin\Debug\net6.0\pennies_from_heaven.runtimeconfig.json
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\bin\Debug\net6.0\pennies_from_heaven.dll
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\bin\Debug\net6.0\pennies_from_heaven.pdb
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.dll
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\refint\pennies_from_heaven.dll
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.pdb
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\pennies_from_heaven.genruntimeconfig.cache
+C:\Users\poynter_caleb\source\repos\pennies_from_heaven\pennies_from_heaven\obj\Debug\net6.0\ref\pennies_from_heaven.dll
